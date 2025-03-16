@@ -1,0 +1,2 @@
+"Voici la structure complète et le contenu d'un projet de développement, extraits sous forme de texte dans le fichier ci-joint project_structure.txt. Ton objectif est de générer une documentation professionnelle et détaillée pour ce projet
+donner moi la documentation se forme fichier markdown"
