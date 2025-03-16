@@ -15,4 +15,4 @@ Ce projet contient un script Python simple mais puissant qui permet de générer
    - Placez le script dans le répertoire racine de votre projet (ou modifiez `project_path` dans le code pour pointer vers votre projet).
    - Exécutez le script avec :
      ```bash
-     python generate_structure.py
+     python doc.py
